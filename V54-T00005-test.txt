@@ -1,0 +1,17 @@
+Abnormal pedestrian count: 0
+Negative time: 0
+Abnormal time jumps: 8
+	trip_gnss: 8
+	trip_objects_forward: 0
+
+
+# Abnormal time jumps in GNSS data (milliseconds)
+start_time, end_time, difference
+96600, 161260, 64660
+113760, 163700, 49940
+116200, 166150, 49950
+135800, 168610, 32810
+143150, 171050, 27900
+145610, 173500, 27890
+150500, 175960, 25460
+160310, 178400, 18090

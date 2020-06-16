@@ -1,0 +1,4 @@
+# Pedestrian related event data (events separated by blank lines)
+# Number of pedestrian related events: 0
+# milliseconds, datetime, fix_mode, lat, long, alt, speed, heading, accuracy_horiz, accuracy_vert, accuracy_speed, accuracy_heading, acc, yaw_rate, yaw_rate_dot, range, range_rate, event_marker
+

@@ -1,0 +1,72 @@
+{
+    "vehicle": 54,
+    "trip_number": 4,
+    "distance_traveled": 0.000915,
+    "start_datetime": "2018-05-11T11:50:09.950000Z",
+    "start_epoch_time": 1526039409,
+    "end_datetime": "2018-05-11T11:50:09.950000Z",
+    "end_epoch_time": 1526039409,
+    "latitude_start": 42.2982,
+    "longitude_start": -83.7030719,
+    "latitude_end": 42.2982,
+    "longitude_end": -83.7030719,
+    "event_marker_count": 0,
+    "estop_forward_count": 0,
+    "estop_rear_count": 0,
+    "speed": 0.061,
+    "heading_start": 268.4864196,
+    "heading_end": 268.4864196,
+    "trip_gnss": [
+        {
+            "milliseconds": 1800,
+            "datetime": "2018-05-11T11:50:09950000151Z",
+            "fix_mode": 7,
+            "latitude": 42.2982,
+            "longitude": -83.7030719,
+            "altitude": 263.78302,
+            "speed": 0.061,
+            "heading": 268.48641,
+            "accuracy_horizontal": 2.131,
+            "accuracy_vertical": 1.7120001,
+            "accuracy_speed": 0.0329999,
+            "accuracy_heading": 0.0010599
+        }
+    ],
+    "trip_imu": [],
+    "trip_markers": [
+        {
+            "milliseconds": 10,
+            "event_marker": false,
+            "estop_forward": false,
+            "estop_rear": false,
+            "decel_event": false,
+            "door_open": true,
+            "wiper_forward": false,
+            "wiper_rear": false
+        }
+    ],
+    "trip_objects_forward": [
+        {
+            "milliseconds": 10,
+            "num_targets": 0,
+            "range": 0.0,
+            "range_rate": 0.0,
+            "vehicle_count": 0,
+            "bicycle_count": 0,
+            "pedestrian_count": 0,
+            "motorcycle_count": 0
+        }
+    ],
+    "trip_objects_rear": [
+        {
+            "milliseconds": 10,
+            "num_targets": 0,
+            "range": 0.0,
+            "range_rate": 0.0,
+            "vehicle_count": 0,
+            "bicycle_count": 0,
+            "pedestrian_count": 0,
+            "motorcycle_count": 0
+        }
+    ]
+}

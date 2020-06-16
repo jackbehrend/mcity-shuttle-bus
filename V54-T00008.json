@@ -1,0 +1,57 @@
+{
+    "vehicle": 54,
+    "trip_number": 8,
+    "distance_traveled": 0.0,
+    "start_datetime": null,
+    "start_epoch_time": null,
+    "end_datetime": null,
+    "end_epoch_time": null,
+    "latitude_start": null,
+    "longitude_start": null,
+    "latitude_end": null,
+    "longitude_end": null,
+    "event_marker_count": 0,
+    "estop_forward_count": 0,
+    "estop_rear_count": 0,
+    "speed": 0.0,
+    "heading_start": null,
+    "heading_end": null,
+    "trip_gnss": [],
+    "trip_imu": [],
+    "trip_markers": [
+        {
+            "milliseconds": 10,
+            "event_marker": false,
+            "estop_forward": false,
+            "estop_rear": false,
+            "decel_event": false,
+            "door_open": false,
+            "wiper_forward": false,
+            "wiper_rear": false
+        }
+    ],
+    "trip_objects_forward": [
+        {
+            "milliseconds": 10,
+            "num_targets": 0,
+            "range": 0.0,
+            "range_rate": 0.0,
+            "vehicle_count": 0,
+            "bicycle_count": 0,
+            "pedestrian_count": 0,
+            "motorcycle_count": 0
+        }
+    ],
+    "trip_objects_rear": [
+        {
+            "milliseconds": 10,
+            "num_targets": 0,
+            "range": 0.0,
+            "range_rate": 0.0,
+            "vehicle_count": 0,
+            "bicycle_count": 0,
+            "pedestrian_count": 0,
+            "motorcycle_count": 0
+        }
+    ]
+}

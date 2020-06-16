@@ -1,0 +1,3 @@
+Abnormal pedestrian count: 0
+Negative time: 0
+Abnormal time jumps: 0
